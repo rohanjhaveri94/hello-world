@@ -1,2 +1,2 @@
 # hello-world
-explorer
+Tech explorer
